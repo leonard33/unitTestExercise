@@ -1,0 +1,23 @@
+{
+  "name": "unittestexercise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch-all --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leonard33/unitTestExercise.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leonard33/unitTestExercise/issues"
+  },
+  "homepage": "https://github.com/leonard33/unitTestExercise#readme",
+  "devDependencies": {
+    "jest": "^28.0.3"
+  }
+}
